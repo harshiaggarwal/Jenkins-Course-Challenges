@@ -1,2 +1,2 @@
-# Jenkins-Course-Challenges
-Jenkinsfile for the practice challenges I completed for a Jenkins Masterclass by Codestars. 
+# demo-Jenkinsfile
+Jenkinsfile for the demo pipelines and practice challenges I created.
