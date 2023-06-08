@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage ('Clean Up'){
             steps {
-                deleteDir{}
+                deleteDir()
             }
         }
         stage ('Clone Repo'){
