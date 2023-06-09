@@ -8,27 +8,27 @@ pipeline {
         }
         stage ('Stage 1'){
             steps {
-                sh 'echo "Hi! from stage 1"'
+                echo "Hi! from stage 1"
             }
         }
        stage ('Stage 2'){
             steps {
-                sh 'echo "Hi! from stage 2"'
+                echo "Hi! from stage 2"
             }
         }
         stage ('Stage 3'){
             steps {
-                sh 'echo "Hi! from stage 3"'
+                echo "Hi! from stage 3"
             }
         }
         stage ('Stage 4'){
             steps {
-                sh 'echo "Hi! from stage 4"'
+                echo "Hi! from stage 4"
             }
         }
         stage ('Stage 5'){
             steps {
-                sh 'echo "Hi! from stage 5"'
+                echo "Hi! from stage 5"
             }
         }
     }
