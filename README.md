@@ -25,3 +25,8 @@ It's a simple pipeline that gives a dropdown menu for choosing parameters while 
 ## challenge 2
 A pipeline that together contains 3 different parameters (boolean, string and choice).
 
+## demo-pipeline-with-variables
+A demo pipeline that is for testing the variables functionality. Includes String, Boolean and Number variable
+
+## demo-environment-variable-pipeline
+It echos the Build Number when successful. Makes use of `BUILD_NUMBER` env variable.
